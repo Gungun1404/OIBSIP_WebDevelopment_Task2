@@ -1,7 +1,9 @@
 OIBSIP_WebDevelopment_Task2
+
 🌐 Personal Portfolio Website
 
-📌 Objective The goal of this project is to design and build a personal portfolio website using HTML, CSS, and JavaScript. This site showcases my skills, projects, and contact information in a clean, responsive, and interactive format. It acts as a digital resume and portfolio for potential employers, collaborators, or clients.
+📌 Objective:
+The goal of this project is to design and build a personal portfolio website using HTML, CSS, and JavaScript. This site showcases my skills, projects, and contact information in a clean, responsive, and interactive format. It acts as a digital resume and portfolio for potential employers, collaborators, or clients.
 
 🧭 Steps Performed Planning & Structure:
 
@@ -41,7 +43,8 @@ Version Control: Git (optional)
 
 Design Utilities: Google Fonts, Font Awesome (for icons)
 
-✅ Outcome The final deliverable is a fully functional and responsive portfolio website that:
+✅ Outcome:
+The final deliverable is a fully functional and responsive portfolio website that:
 
 Highlights professional experience and projects
 
